@@ -5,6 +5,10 @@
 using namespace std;
 
 int main() {
+<<<<<<< HEAD
+ cout << "HelloWorld! This is in Develop/Fork";
+=======
  cout << "HelloWorld! More stuff";
+>>>>>>> ffedd58f3d3f589f194e1be0e1447b4276048c8f
  return 0;
 }
